@@ -22,7 +22,7 @@ import javafx.stage.Stage;
 
 /**
  * Grassland is a secure method for contacting your group, it does not contain 
- * much overhead besides few features and very strong encryption (AES).
+ * much overhead besides few features and very strong encryption (AES) - Not available.
  * It's meant to be as lightweight, fast, and as safe as possible. But you 
  * should implement best security practices to mitigate information analysis
  * tools.
@@ -113,5 +113,6 @@ public class App extends Application {
     public static void main(String[] args) {
         launch();
     }
+
 
 }
